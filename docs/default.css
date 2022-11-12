@@ -279,7 +279,8 @@ ul.contact li a:before {
 
 #header-wrapper {
 	overflow: hidden;
-	background: url(images/background.jpg) center top;
+	background: url(images/background.jpg)center top ;
+	/* width: 100%; */
 	height: 530px;
 }
 
